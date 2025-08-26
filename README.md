@@ -18,7 +18,7 @@ This lab showcases a full-cycle deployment scenario using Azure App Services, em
 
 ### Swap Deployment Slots
 - Action: Swapped staging with production
-- Outcome: Hello World app live in production with zero downtime
+- Outcome: **Hello World** app live in production with zero downtime
 <img width="539" height="207" alt="image" src="https://github.com/user-attachments/assets/504c72bf-d46f-47e5-baa0-737fb078be4f" />
 
 ### Autoscaling
